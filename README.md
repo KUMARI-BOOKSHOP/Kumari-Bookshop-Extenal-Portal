@@ -1,4 +1,4 @@
-# Kumari-Bookshop-Extenal-Portal
+<h1 align="center"><b> Kumari-Bookshop-Extenal-Portal</b></h1>
 HTML, CSS, SCSS, JS, Bootstrap based website which duilt for publication purposes 
 
 <br>
