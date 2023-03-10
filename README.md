@@ -2,4 +2,4 @@
 HTML, CSS, SCSS, JS, Bootstrap based website which duilt for publication purposes 
 
 <br>
-<h4 align="right"><b> © 2023 KUMARI BOOKSHOP MANAGEMNET SYSTEM ~Sahan Nimesha~</b>  </h4>
+<h4 align="center"><b> © 2023 KUMARI BOOKSHOP MANAGEMNET SYSTEM ~Sahan Nimesha~</b>  </h4>
