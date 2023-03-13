@@ -253,8 +253,8 @@ html{
 .contact{
     background: radial-gradient(circle, #ffffff 10%, transparent 11%),radial-gradient(circle at bottom left, #ffffff 5%, transparent 6%),radial-gradient(circle at bottom right, #ffffff 5%, transparent 6%),radial-gradient(circle at top left, #ffffff 5%, transparent 6%),radial-gradient(circle at top right, #ffffff 5%, transparent 6%);
         background-size: 4em 4em;
-        background-color: #ffd600;
-        opacity: 0.75;
+        background-color: orange;
+        opacity: 1;
     text-align: center;
 }
 .contact-title h1{
